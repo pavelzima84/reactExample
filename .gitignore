@@ -1,0 +1,7 @@
+.DS_Store
+.travis.yml
+node_modules
+npm-debug.log
+build
+devstack.sublime-project
+devstack.sublime-workspace
