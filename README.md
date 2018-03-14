@@ -16,9 +16,3 @@ npm run build
 npm run server
 open http://localhost:8000
 ```
-
-## ESLint
-
-```shell
-npm run lint
-```
